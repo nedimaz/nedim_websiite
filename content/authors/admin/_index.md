@@ -1,77 +1,42 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Nedim Yel
+role: PhD
+bio: My research interests include applied statistics, data analysis, multilevel
+  models, latent variable models, and psychometrics..
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Applied Statistics
+  - Analysis
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/nedimyel
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=x731nWcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nedimaz
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/nedimyel/
+organizations:
+  - name: University of Massachusetts Boston
+    url: https://www.umb.edu/
+education:
+  courses:
+    - course: PhD specialized in Measurement and Statistics
+      institution: Arizona State University
+      year: 2016
+    - course: Executive Certificate in Business Analytics
+      institution: "Kelley School of Business: Indiana University"
+      year: 2018
+    - course: Strategic Data Fellow
+      institution: Harvard University
+      year: 2022
+email: nedimyel@gmail.com
+superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nedim Yel is a senior research statistician at Data Analysis and Statistical solutions. has an extensive quantitative methodological training and experience that includes data management, data visualization, data warehouse planning, cleaning large-scale student achievement and demographic data; preparing and analyzing large-scale datasets for statistical inference; developing R code to process and shape data sets to answer various research questions using advanced statistical methods. Dr. Yel’s research focuses on improving hierarchical linear/multilevel models specifically, dealing with sample size issues and their effect on parameter estimates at different levels in 3- level models. He has extensive experience in conducting HLM/MLM/LGCM analysis from his work at IES-funded National Center on Assessment and Accountability for Special Education. Dr. Yel currently serves as a co-Principal Investigator and the lead statistician on a recently funded IES grant.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
