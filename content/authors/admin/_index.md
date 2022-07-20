@@ -1,6 +1,7 @@
 ---
 title: Nedim Yel
 role: PhD
+avatar_filename: ny.jfif
 bio: My research interests include applied statistics, data analysis, multilevel
   models, latent variable models, and psychometrics..
 interests:
